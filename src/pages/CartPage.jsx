@@ -10,7 +10,9 @@ export default function CartPage() {
       <div className="container-fluid mt-3 mb-5">
         <Cart title="Cart" />
       </div>
-      <div className="pb-5"></div>
+      <div className="pb-5">
+      <div></div>
+      </div>
     </>
   )
 }
