@@ -11,7 +11,7 @@ export default function CartPage() {
         <Cart title="Cart" />
       </div>
       <div className="pb-5">
-      <div></div>
+      
       </div>
     </>
   )
